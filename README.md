@@ -53,3 +53,5 @@ what is your email address?
 example@gmail.com
 Sent!
 ```
+# Run
+Download the script, and run `sh myScript.sh` in bash.
